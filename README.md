@@ -1,2 +1,2 @@
-# bootcamp_trainee 
+# EDA MTA project 
 The development of new technologies via the utilization of data science in transportation has helped a lot in recent years, it has been widely applied in different countries to make use of the data provided by different stations in a certain city of the same company, wherein this project I am going to be showing the best area for opening a mall near to one of stations in New York by using the data provided by The Metropolitan Transportation Authority (MTA) which is North America's largest transportation network, serving a population of 15.3 million people across a 5,000-square-mile travel area surrounding New York City 
